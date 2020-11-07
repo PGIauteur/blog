@@ -14,7 +14,7 @@ title: 'Page auteur de Pierre Ganchegui'
 slogan: 'Bienvenue sur ma page. Bonne découverte de mes écrits et autres passions'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Le but de cette page est de parler de mes écrits. Pour l'instant, j'ai un livre sorti : Le Mystère de Twelve Bens. Je souhaite aussi partager sur la suite'
+description: 'Le but de cette page est de parler de mes écrits. Mon premier livre est sorti cet été : Le Mystère de Twelve Bens. Je souhaite aussi partager sur la suite'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -38,7 +38,7 @@ improve_content: https://github.com/PGIauteur/blog
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/PGIauteur/blog/images/cover.jpg'
+urlimg: https://github.com/PGIauteur/blog/images/cover.jpg
 
 
 # Logo size is 600x80 pixels
