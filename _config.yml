@@ -38,7 +38,7 @@ improve_content: https://github.com/PGIauteur/blog
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '/images/cover.jpg'
+urlimg: 'cover.jpg'
 
 
 # Logo size is 600x80 pixels
